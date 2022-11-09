@@ -71,4 +71,4 @@ classes:
   - Not Wear
   - Female
   - over 60
-model_path: /Users/hansungkim/Desktop/대학/AI tech/AI서비스개발기초/Boostcamp-AI-Tech-Product-Serving/assets/mask_task/model.pth
+model_path: etc/model.pth
