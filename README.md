@@ -27,3 +27,4 @@ Advanced settings에서는 TOML언어로 데이터 관련 세팅을 하실 수 �
 
 제가 완성한 스트림릿으로 배포한 사이트는
 [여기](https://datakim1201-streamlit-roy-app-cwca53.streamlit.app)입니다.
+암호 : password
